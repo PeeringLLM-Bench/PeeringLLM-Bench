@@ -1,0 +1,1000 @@
+Create configuration code for BGP peer establishment in {local_as} towards {remote_as}.
+Produce configuration code to enable BGP peering from {local_as} with {remote_as}.
+Produce peering config for BGP peering setup for {local_as} towards {remote_as}.
+Develop configuration script for BGP peering setup to be applied to {local_as} with {remote_as}.
+Generate configuration elements to establish BGP peering for {local_as} to {remote_as}.
+Construct configuration elements for BGP peering setup to be applied to {local_as} towards {remote_as}.
+Write router configuration to configure a BGP session from {local_as} to {remote_as}.
+Output configuration script to set up a BGP peer on {local_as} to {remote_as}.
+Provide configuration code for setting up BGP peering from {local_as} towards {remote_as}.
+Generate setup code to enable BGP peering to be applied to {local_as} with {remote_as}.
+Write configuration script to configure a BGP session for {local_as} to {remote_as}.
+Design configuration elements to establish BGP peering in {local_as} to {remote_as}.
+Formulate configuration script for BGP peering setup for {local_as} to {remote_as}.
+Create setup code to configure BGP peering in {local_as} towards {remote_as}.
+Formulate routing config to establish BGP peering in {local_as} with {remote_as}.
+Provide configuration elements for setting up BGP peering to be applied to {local_as} towards {remote_as}.
+Output network config to form a BGP peering session to be applied to {local_as} to {remote_as}.
+Formulate routing config to configure a BGP session on {local_as} to {remote_as}.
+Formulate setup code for setting up BGP peering from {local_as} for peering with {remote_as}.
+Construct configuration script to form a BGP peering session to be applied to {local_as} towards {remote_as}.
+Create routing config for setting up BGP peering on {local_as} towards {remote_as}.
+Output peering config to configure BGP peering from {local_as} to {remote_as}.
+Formulate peering config for setting up BGP peering in {local_as} for peering with {remote_as}.
+Output setup code to set up a BGP peer from {local_as} with {remote_as}.
+Output network config to form a BGP peering session on {local_as} for peering with {remote_as}.
+Create configuration code to initiate BGP peering in {local_as} for peering with {remote_as}.
+Output peering config to configure BGP peering for {local_as} for peering with {remote_as}.
+Write configuration script to configure BGP peering on {local_as} towards {remote_as}.
+Generate network config to configure a BGP session to be applied to {local_as} to {remote_as}.
+Output peer configuration to form a BGP peering session from {local_as} to {remote_as}.
+Provide peering config to configure a BGP session from {local_as} for peering with {remote_as}.
+Output configuration code for BGP peer establishment on {local_as} for peering with {remote_as}.
+Output router configuration to configure BGP peering to be applied to {local_as} for peering with {remote_as}.
+Output network config to form a BGP peering session on {local_as} with {remote_as}.
+Formulate router configuration to form a BGP peering session to be applied to {local_as} to {remote_as}.
+Create peer configuration to configure BGP peering in {local_as} with {remote_as}.
+Formulate peering config to configure a BGP session to be applied to {local_as} to {remote_as}.
+Develop setup code to set up a BGP peer in {local_as} towards {remote_as}.
+Formulate routing config to establish BGP peering from {local_as} to {remote_as}.
+Generate router configuration to establish BGP peering in {local_as} to {remote_as}.
+Provide configuration elements to form a BGP peering session in {local_as} for peering with {remote_as}.
+Generate peering config to form a BGP peering session for {local_as} to {remote_as}.
+Generate router configuration to configure BGP peering on {local_as} to {remote_as}.
+Generate network config for setting up BGP peering from {local_as} towards {remote_as}.
+Output router configuration to initiate BGP peering to be applied to {local_as} with {remote_as}.
+Formulate configuration code to establish BGP peering in {local_as} to {remote_as}.
+Generate peering config to initiate BGP peering for {local_as} to {remote_as}.
+Provide configuration script for BGP peering setup on {local_as} to {remote_as}.
+Provide configuration elements to establish BGP peering to be applied to {local_as} towards {remote_as}.
+Develop configuration script for BGP peer establishment from {local_as} to {remote_as}.
+Create network config to configure a BGP session in {local_as} to {remote_as}.
+Generate configuration script to establish BGP peering for {local_as} towards {remote_as}.
+Construct peering config for BGP peering setup for {local_as} to {remote_as}.
+Develop peer configuration to form a BGP peering session on {local_as} to {remote_as}.
+Design router configuration for setting up BGP peering on {local_as} with {remote_as}.
+Generate router configuration to set up a BGP peer from {local_as} with {remote_as}.
+Create peering config to set up a BGP peer to be applied to {local_as} towards {remote_as}.
+Formulate peering config to form a BGP peering session for {local_as} for peering with {remote_as}.
+Create setup code to enable BGP peering from {local_as} to {remote_as}.
+Output router configuration for setting up BGP peering in {local_as} to {remote_as}.
+Construct config to form a BGP peering session from {local_as} to {remote_as}.
+Develop peer configuration to configure BGP peering in {local_as} with {remote_as}.
+Develop configuration elements for setting up BGP peering on {local_as} towards {remote_as}.
+Design configuration code for BGP peering setup for {local_as} to {remote_as}.
+Develop network config to set up a BGP peer from {local_as} for peering with {remote_as}.
+Produce routing config to establish BGP peering in {local_as} with {remote_as}.
+Construct router configuration for BGP peering setup for {local_as} to {remote_as}.
+Formulate configuration elements to initiate BGP peering on {local_as} to {remote_as}.
+Provide configuration elements for BGP peer establishment to be applied to {local_as} to {remote_as}.
+Formulate network config to establish BGP peering on {local_as} to {remote_as}.
+Produce router configuration for BGP peer establishment from {local_as} to {remote_as}.
+Design network config to set up a BGP peer for {local_as} to {remote_as}.
+Output configuration code to initiate BGP peering on {local_as} to {remote_as}.
+Create configuration elements to initiate BGP peering on {local_as} towards {remote_as}.
+Generate router configuration to initiate BGP peering for {local_as} to {remote_as}.
+Formulate router configuration to enable BGP peering on {local_as} for peering with {remote_as}.
+Produce configuration code to enable BGP peering in {local_as} towards {remote_as}.
+Provide configuration script to set up a BGP peer in {local_as} for peering with {remote_as}.
+Develop configuration code to enable BGP peering on {local_as} with {remote_as}.
+Provide router configuration for BGP peer establishment on {local_as} to {remote_as}.
+Formulate routing config for BGP peer establishment to be applied to {local_as} to {remote_as}.
+Construct router configuration for BGP peer establishment on {local_as} to {remote_as}.
+Construct routing config to set up a BGP peer on {local_as} for peering with {remote_as}.
+Design peering config to initiate BGP peering for {local_as} for peering with {remote_as}.
+Develop network config to configure BGP peering in {local_as} to {remote_as}.
+Create peer configuration to configure a BGP session to be applied to {local_as} with {remote_as}.
+Provide config to enable BGP peering to be applied to {local_as} to {remote_as}.
+Generate peer configuration to configure BGP peering to be applied to {local_as} to {remote_as}.
+Provide setup code to set up a BGP peer on {local_as} with {remote_as}.
+Produce peering config to enable BGP peering to be applied to {local_as} with {remote_as}.
+Generate peer configuration to enable BGP peering from {local_as} for peering with {remote_as}.
+Generate setup code to set up a BGP peer for {local_as} to {remote_as}.
+Formulate configuration elements to configure a BGP session on {local_as} with {remote_as}.
+Develop router configuration for BGP peer establishment from {local_as} for peering with {remote_as}.
+Formulate config for BGP peer establishment from {local_as} towards {remote_as}.
+Develop peering config to set up a BGP peer in {local_as} towards {remote_as}.
+Output config to initiate BGP peering for {local_as} to {remote_as}.
+Create router configuration to initiate BGP peering in {local_as} to {remote_as}.
+Construct configuration code to set up a BGP peer in {local_as} towards {remote_as}.
+Provide peering config to establish BGP peering from {local_as} towards {remote_as}.
+Write config for setting up BGP peering on {local_as} towards {remote_as}.
+Construct network config for setting up BGP peering to be applied to {local_as} to {remote_as}.
+Generate peer configuration for BGP peer establishment in {local_as} for peering with {remote_as}.
+Produce setup code to enable BGP peering to be applied to {local_as} to {remote_as}.
+Develop configuration elements to form a BGP peering session in {local_as} towards {remote_as}.
+Create setup code for BGP peering setup in {local_as} with {remote_as}.
+Develop config to establish BGP peering from {local_as} for peering with {remote_as}.
+Construct router configuration for BGP peering setup in {local_as} with {remote_as}.
+Formulate configuration script to configure BGP peering in {local_as} to {remote_as}.
+Develop config for BGP peering setup from {local_as} to {remote_as}.
+Produce peer configuration to initiate BGP peering to be applied to {local_as} to {remote_as}.
+Generate router configuration to enable BGP peering to be applied to {local_as} to {remote_as}.
+Develop network config to set up a BGP peer from {local_as} to {remote_as}.
+Design configuration code to initiate BGP peering in {local_as} towards {remote_as}.
+Generate setup code to set up a BGP peer from {local_as} to {remote_as}.
+Create config for BGP peering setup on {local_as} to {remote_as}.
+Produce configuration elements to set up a BGP peer from {local_as} to {remote_as}.
+Design configuration elements to configure BGP peering to be applied to {local_as} to {remote_as}.
+Formulate network config to set up a BGP peer for {local_as} for peering with {remote_as}.
+Formulate router configuration to configure a BGP session from {local_as} with {remote_as}.
+Write peering config for BGP peer establishment on {local_as} to {remote_as}.
+Write configuration script to configure BGP peering for {local_as} towards {remote_as}.
+Create setup code to initiate BGP peering in {local_as} for peering with {remote_as}.
+Output configuration script to configure BGP peering on {local_as} with {remote_as}.
+Generate network config for BGP peering setup on {local_as} for peering with {remote_as}.
+Create configuration elements to initiate BGP peering for {local_as} with {remote_as}.
+Write peering config for BGP peer establishment for {local_as} to {remote_as}.
+Formulate setup code to initiate BGP peering on {local_as} with {remote_as}.
+Develop configuration code to enable BGP peering to be applied to {local_as} towards {remote_as}.
+Generate configuration script for BGP peer establishment on {local_as} for peering with {remote_as}.
+Write network config to set up a BGP peer to be applied to {local_as} to {remote_as}.
+Provide network config for setting up BGP peering from {local_as} towards {remote_as}.
+Generate configuration elements for BGP peer establishment to be applied to {local_as} to {remote_as}.
+Construct configuration script to configure a BGP session to be applied to {local_as} for peering with {remote_as}.
+Generate config for BGP peering setup to be applied to {local_as} towards {remote_as}.
+Develop configuration code to initiate BGP peering for {local_as} towards {remote_as}.
+Formulate network config for BGP peering setup from {local_as} with {remote_as}.
+Produce setup code to establish BGP peering to be applied to {local_as} with {remote_as}.
+Formulate setup code to set up a BGP peer for {local_as} with {remote_as}.
+Generate peering config to establish BGP peering in {local_as} to {remote_as}.
+Write peering config for setting up BGP peering to be applied to {local_as} for peering with {remote_as}.
+Construct network config to form a BGP peering session from {local_as} to {remote_as}.
+Output setup code to configure BGP peering in {local_as} towards {remote_as}.
+Formulate network config to form a BGP peering session on {local_as} to {remote_as}.
+Provide config for setting up BGP peering on {local_as} to {remote_as}.
+Develop peer configuration to configure a BGP session from {local_as} to {remote_as}.
+Develop router configuration for BGP peer establishment for {local_as} to {remote_as}.
+Design peering config to enable BGP peering in {local_as} towards {remote_as}.
+Develop configuration script to configure BGP peering to be applied to {local_as} to {remote_as}.
+Produce configuration script to form a BGP peering session from {local_as} towards {remote_as}.
+Formulate configuration script to establish BGP peering on {local_as} for peering with {remote_as}.
+Output network config for setting up BGP peering to be applied to {local_as} for peering with {remote_as}.
+Formulate configuration script to configure BGP peering in {local_as} with {remote_as}.
+Design router configuration for BGP peer establishment to be applied to {local_as} with {remote_as}.
+Construct configuration code to initiate BGP peering from {local_as} towards {remote_as}.
+Output configuration code to configure BGP peering for {local_as} with {remote_as}.
+Write configuration elements for BGP peer establishment from {local_as} to {remote_as}.
+Formulate router configuration for setting up BGP peering in {local_as} towards {remote_as}.
+Develop configuration code for setting up BGP peering from {local_as} to {remote_as}.
+Develop configuration elements to enable BGP peering to be applied to {local_as} to {remote_as}.
+Generate configuration code to initiate BGP peering to be applied to {local_as} to {remote_as}.
+Produce network config to establish BGP peering from {local_as} towards {remote_as}.
+Write config for BGP peering setup in {local_as} to {remote_as}.
+Formulate configuration script to configure BGP peering from {local_as} for peering with {remote_as}.
+Output peering config to form a BGP peering session to be applied to {local_as} with {remote_as}.
+Develop peer configuration to configure a BGP session on {local_as} towards {remote_as}.
+Develop configuration script to initiate BGP peering to be applied to {local_as} with {remote_as}.
+Provide setup code to set up a BGP peer in {local_as} for peering with {remote_as}.
+Produce config to form a BGP peering session to be applied to {local_as} to {remote_as}.
+Output peering config to form a BGP peering session in {local_as} towards {remote_as}.
+Construct config to configure a BGP session for {local_as} towards {remote_as}.
+Develop routing config to enable BGP peering in {local_as} with {remote_as}.
+Write config to form a BGP peering session on {local_as} to {remote_as}.
+Construct router configuration for setting up BGP peering to be applied to {local_as} to {remote_as}.
+Construct routing config to configure a BGP session in {local_as} to {remote_as}.
+Produce router configuration to set up a BGP peer in {local_as} to {remote_as}.
+Create peering config to configure a BGP session in {local_as} for peering with {remote_as}.
+Develop routing config to configure BGP peering for {local_as} to {remote_as}.
+Design routing config to establish BGP peering on {local_as} to {remote_as}.
+Design peer configuration to set up a BGP peer in {local_as} to {remote_as}.
+Output peering config for setting up BGP peering to be applied to {local_as} for peering with {remote_as}.
+Provide routing config to establish BGP peering on {local_as} with {remote_as}.
+Develop peering config to set up a BGP peer from {local_as} with {remote_as}.
+Formulate configuration elements for BGP peer establishment to be applied to {local_as} towards {remote_as}.
+Generate config to establish BGP peering from {local_as} to {remote_as}.
+Write setup code to configure a BGP session on {local_as} to {remote_as}.
+Construct configuration script for BGP peering setup to be applied to {local_as} to {remote_as}.
+Write configuration script for BGP peering setup from {local_as} to {remote_as}.
+Generate router configuration to establish BGP peering to be applied to {local_as} to {remote_as}.
+Write peer configuration to establish BGP peering on {local_as} to {remote_as}.
+Create configuration script to enable BGP peering to be applied to {local_as} towards {remote_as}.
+Construct configuration elements to configure a BGP session to be applied to {local_as} for peering with {remote_as}.
+Generate config for BGP peering setup on {local_as} towards {remote_as}.
+Design network config to form a BGP peering session in {local_as} with {remote_as}.
+Formulate routing config for BGP peering setup in {local_as} to {remote_as}.
+Construct configuration elements to initiate BGP peering to be applied to {local_as} to {remote_as}.
+Develop configuration script for BGP peer establishment from {local_as} for peering with {remote_as}.
+Create routing config for BGP peering setup to be applied to {local_as} to {remote_as}.
+Write configuration code for setting up BGP peering to be applied to {local_as} with {remote_as}.
+Construct configuration elements to form a BGP peering session in {local_as} with {remote_as}.
+Generate config to configure BGP peering to be applied to {local_as} towards {remote_as}.
+Generate configuration script for setting up BGP peering to be applied to {local_as} towards {remote_as}.
+Create configuration elements to enable BGP peering in {local_as} to {remote_as}.
+Construct router configuration to initiate BGP peering from {local_as} to {remote_as}.
+Construct config for BGP peer establishment on {local_as} with {remote_as}.
+Produce configuration script to initiate BGP peering to be applied to {local_as} for peering with {remote_as}.
+Generate setup code for BGP peering setup in {local_as} for peering with {remote_as}.
+Generate configuration script to initiate BGP peering for {local_as} for peering with {remote_as}.
+Create routing config to initiate BGP peering to be applied to {local_as} towards {remote_as}.
+Formulate setup code to establish BGP peering to be applied to {local_as} to {remote_as}.
+Output routing config for BGP peer establishment for {local_as} to {remote_as}.
+Output peer configuration to configure a BGP session in {local_as} with {remote_as}.
+Output peer configuration to form a BGP peering session in {local_as} for peering with {remote_as}.
+Formulate configuration code for BGP peer establishment on {local_as} to {remote_as}.
+Output routing config for BGP peer establishment for {local_as} for peering with {remote_as}.
+Design peer configuration for BGP peering setup in {local_as} to {remote_as}.
+Generate setup code to configure BGP peering from {local_as} towards {remote_as}.
+Generate peer configuration for BGP peer establishment to be applied to {local_as} towards {remote_as}.
+Generate configuration code to establish BGP peering in {local_as} with {remote_as}.
+Construct configuration code to configure a BGP session for {local_as} for peering with {remote_as}.
+Produce routing config to enable BGP peering on {local_as} for peering with {remote_as}.
+Produce network config for BGP peer establishment in {local_as} to {remote_as}.
+Create configuration elements to form a BGP peering session to be applied to {local_as} towards {remote_as}.
+Design router configuration to set up a BGP peer on {local_as} with {remote_as}.
+Formulate peering config to form a BGP peering session on {local_as} to {remote_as}.
+Create configuration code to form a BGP peering session for {local_as} towards {remote_as}.
+Create peering config to configure a BGP session for {local_as} to {remote_as}.
+Provide config to establish BGP peering for {local_as} to {remote_as}.
+Provide peer configuration to configure BGP peering to be applied to {local_as} to {remote_as}.
+Design config to form a BGP peering session in {local_as} for peering with {remote_as}.
+Develop configuration elements to form a BGP peering session on {local_as} with {remote_as}.
+Generate router configuration for BGP peer establishment for {local_as} to {remote_as}.
+Write configuration elements for BGP peer establishment in {local_as} towards {remote_as}.
+Create configuration code to set up a BGP peer to be applied to {local_as} to {remote_as}.
+Develop peer configuration to set up a BGP peer on {local_as} towards {remote_as}.
+Provide configuration code to enable BGP peering on {local_as} towards {remote_as}.
+Provide peering config for setting up BGP peering on {local_as} to {remote_as}.
+Generate peering config to initiate BGP peering to be applied to {local_as} with {remote_as}.
+Create peering config to form a BGP peering session in {local_as} towards {remote_as}.
+Create setup code to configure a BGP session on {local_as} to {remote_as}.
+Provide config to form a BGP peering session from {local_as} to {remote_as}.
+Develop network config to set up a BGP peer from {local_as} to {remote_as}.
+Provide peering config to set up a BGP peer in {local_as} to {remote_as}.
+Develop configuration code for BGP peer establishment on {local_as} towards {remote_as}.
+Develop configuration code to initiate BGP peering from {local_as} to {remote_as}.
+Produce configuration elements for setting up BGP peering for {local_as} for peering with {remote_as}.
+Develop config to enable BGP peering to be applied to {local_as} to {remote_as}.
+Provide peer configuration for setting up BGP peering on {local_as} to {remote_as}.
+Provide configuration elements to form a BGP peering session in {local_as} towards {remote_as}.
+Develop configuration elements to enable BGP peering to be applied to {local_as} with {remote_as}.
+Produce config to initiate BGP peering for {local_as} to {remote_as}.
+Formulate network config for setting up BGP peering to be applied to {local_as} to {remote_as}.
+Generate configuration script for setting up BGP peering for {local_as} towards {remote_as}.
+Provide configuration elements to initiate BGP peering on {local_as} towards {remote_as}.
+Create routing config for setting up BGP peering in {local_as} for peering with {remote_as}.
+Output configuration elements to set up a BGP peer to be applied to {local_as} with {remote_as}.
+Design config to configure BGP peering in {local_as} for peering with {remote_as}.
+Produce configuration script to configure a BGP session in {local_as} to {remote_as}.
+Output setup code to configure a BGP session for {local_as} to {remote_as}.
+Generate routing config to set up a BGP peer to be applied to {local_as} to {remote_as}.
+Output configuration script for BGP peering setup to be applied to {local_as} with {remote_as}.
+Generate configuration elements for setting up BGP peering for {local_as} with {remote_as}.
+Provide config to configure BGP peering in {local_as} to {remote_as}.
+Provide router configuration to configure BGP peering from {local_as} to {remote_as}.
+Construct peer configuration for setting up BGP peering on {local_as} to {remote_as}.
+Provide setup code to set up a BGP peer from {local_as} for peering with {remote_as}.
+Output setup code to establish BGP peering for {local_as} to {remote_as}.
+Write setup code to establish BGP peering from {local_as} with {remote_as}.
+Design configuration code to initiate BGP peering from {local_as} to {remote_as}.
+Formulate config to configure a BGP session on {local_as} to {remote_as}.
+Develop config to enable BGP peering from {local_as} to {remote_as}.
+Provide network config to set up a BGP peer for {local_as} towards {remote_as}.
+Develop network config to establish BGP peering from {local_as} to {remote_as}.
+Provide network config to configure BGP peering from {local_as} to {remote_as}.
+Construct setup code to configure BGP peering in {local_as} for peering with {remote_as}.
+Design peering config to initiate BGP peering to be applied to {local_as} with {remote_as}.
+Output configuration elements to configure a BGP session on {local_as} with {remote_as}.
+Construct routing config to set up a BGP peer in {local_as} to {remote_as}.
+Develop router configuration to initiate BGP peering in {local_as} to {remote_as}.
+Create config to initiate BGP peering on {local_as} towards {remote_as}.
+Develop configuration script to configure a BGP session in {local_as} for peering with {remote_as}.
+Generate configuration code to establish BGP peering from {local_as} towards {remote_as}.
+Output network config for BGP peer establishment on {local_as} to {remote_as}.
+Construct config for BGP peer establishment from {local_as} to {remote_as}.
+Develop router configuration for BGP peer establishment on {local_as} to {remote_as}.
+Produce peering config to set up a BGP peer for {local_as} to {remote_as}.
+Create network config to configure BGP peering on {local_as} with {remote_as}.
+Produce config to establish BGP peering on {local_as} with {remote_as}.
+Produce peer configuration to form a BGP peering session to be applied to {local_as} with {remote_as}.
+Provide setup code to enable BGP peering in {local_as} for peering with {remote_as}.
+Formulate configuration script for BGP peering setup in {local_as} for peering with {remote_as}.
+Construct network config for setting up BGP peering to be applied to {local_as} for peering with {remote_as}.
+Develop configuration script to set up a BGP peer to be applied to {local_as} with {remote_as}.
+Formulate peer configuration for setting up BGP peering to be applied to {local_as} for peering with {remote_as}.
+Output configuration code to set up a BGP peer from {local_as} to {remote_as}.
+Formulate configuration code to configure a BGP session from {local_as} to {remote_as}.
+Output peer configuration to configure a BGP session from {local_as} for peering with {remote_as}.
+Create peer configuration to set up a BGP peer on {local_as} to {remote_as}.
+Formulate router configuration for BGP peering setup for {local_as} to {remote_as}.
+Provide router configuration to initiate BGP peering on {local_as} to {remote_as}.
+Design peering config to configure a BGP session to be applied to {local_as} with {remote_as}.
+Formulate configuration code to initiate BGP peering to be applied to {local_as} to {remote_as}.
+Construct routing config to form a BGP peering session on {local_as} to {remote_as}.
+Create router configuration for BGP peer establishment from {local_as} to {remote_as}.
+Formulate configuration code to enable BGP peering for {local_as} for peering with {remote_as}.
+Output setup code for BGP peering setup on {local_as} to {remote_as}.
+Write network config to establish BGP peering in {local_as} to {remote_as}.
+Create config to configure BGP peering to be applied to {local_as} to {remote_as}.
+Generate network config to form a BGP peering session on {local_as} to {remote_as}.
+Design setup code to initiate BGP peering on {local_as} for peering with {remote_as}.
+Output peering config to establish BGP peering in {local_as} with {remote_as}.
+Output setup code for BGP peer establishment for {local_as} for peering with {remote_as}.
+Output configuration elements to configure BGP peering from {local_as} to {remote_as}.
+Output configuration script to establish BGP peering for {local_as} to {remote_as}.
+Create peer configuration to establish BGP peering on {local_as} with {remote_as}.
+Develop config to enable BGP peering to be applied to {local_as} with {remote_as}.
+Provide peering config to configure a BGP session in {local_as} to {remote_as}.
+Develop network config to establish BGP peering from {local_as} with {remote_as}.
+Design routing config to establish BGP peering for {local_as} to {remote_as}.
+Create config for setting up BGP peering on {local_as} to {remote_as}.
+Formulate peering config to establish BGP peering on {local_as} with {remote_as}.
+Write network config to form a BGP peering session for {local_as} to {remote_as}.
+Write configuration code to initiate BGP peering for {local_as} with {remote_as}.
+Formulate peering config to configure BGP peering for {local_as} for peering with {remote_as}.
+Construct configuration script for BGP peer establishment in {local_as} to {remote_as}.
+Generate config to set up a BGP peer in {local_as} with {remote_as}.
+Formulate routing config for BGP peer establishment for {local_as} to {remote_as}.
+Construct network config to enable BGP peering on {local_as} for peering with {remote_as}.
+Create network config to form a BGP peering session to be applied to {local_as} towards {remote_as}.
+Construct config to initiate BGP peering on {local_as} to {remote_as}.
+Develop config for BGP peering setup for {local_as} to {remote_as}.
+Provide configuration code for BGP peering setup from {local_as} to {remote_as}.
+Generate peer configuration for BGP peer establishment on {local_as} with {remote_as}.
+Write network config for BGP peering setup to be applied to {local_as} to {remote_as}.
+Develop peer configuration for BGP peer establishment on {local_as} with {remote_as}.
+Create router configuration for BGP peer establishment from {local_as} towards {remote_as}.
+Provide router configuration for setting up BGP peering from {local_as} to {remote_as}.
+Construct routing config to configure a BGP session in {local_as} with {remote_as}.
+Generate configuration script to initiate BGP peering on {local_as} with {remote_as}.
+Generate routing config to establish BGP peering to be applied to {local_as} to {remote_as}.
+Formulate setup code for BGP peer establishment from {local_as} with {remote_as}.
+Write router configuration to establish BGP peering on {local_as} for peering with {remote_as}.
+Formulate configuration code to enable BGP peering from {local_as} to {remote_as}.
+Formulate setup code to set up a BGP peer on {local_as} towards {remote_as}.
+Write routing config to form a BGP peering session for {local_as} to {remote_as}.
+Produce routing config for BGP peer establishment in {local_as} with {remote_as}.
+Construct routing config for BGP peering setup on {local_as} for peering with {remote_as}.
+Design router configuration to form a BGP peering session from {local_as} towards {remote_as}.
+Develop peering config to initiate BGP peering for {local_as} with {remote_as}.
+Output config for setting up BGP peering in {local_as} with {remote_as}.
+Provide configuration code to configure a BGP session to be applied to {local_as} to {remote_as}.
+Create setup code for setting up BGP peering from {local_as} towards {remote_as}.
+Construct routing config to establish BGP peering for {local_as} to {remote_as}.
+Provide config to establish BGP peering on {local_as} towards {remote_as}.
+Create router configuration to initiate BGP peering in {local_as} towards {remote_as}.
+Develop configuration elements to configure a BGP session from {local_as} with {remote_as}.
+Provide network config to set up a BGP peer for {local_as} for peering with {remote_as}.
+Create peering config for BGP peer establishment in {local_as} towards {remote_as}.
+Design configuration script to initiate BGP peering from {local_as} towards {remote_as}.
+Formulate peer configuration for BGP peering setup from {local_as} for peering with {remote_as}.
+Construct config to enable BGP peering in {local_as} to {remote_as}.
+Generate router configuration to enable BGP peering on {local_as} for peering with {remote_as}.
+Write configuration elements to enable BGP peering from {local_as} for peering with {remote_as}.
+Design network config to establish BGP peering from {local_as} for peering with {remote_as}.
+Construct setup code for setting up BGP peering to be applied to {local_as} towards {remote_as}.
+Construct routing config to enable BGP peering for {local_as} towards {remote_as}.
+Construct config for BGP peering setup to be applied to {local_as} to {remote_as}.
+Produce configuration script for BGP peer establishment for {local_as} for peering with {remote_as}.
+Generate config for BGP peering setup from {local_as} to {remote_as}.
+Produce peer configuration to form a BGP peering session on {local_as} for peering with {remote_as}.
+Construct configuration elements to form a BGP peering session to be applied to {local_as} for peering with {remote_as}.
+Write configuration code to enable BGP peering in {local_as} towards {remote_as}.
+Formulate routing config to initiate BGP peering from {local_as} to {remote_as}.
+Output peer configuration to configure BGP peering from {local_as} to {remote_as}.
+Provide configuration script for setting up BGP peering on {local_as} with {remote_as}.
+Formulate routing config for BGP peer establishment on {local_as} to {remote_as}.
+Generate setup code to initiate BGP peering on {local_as} with {remote_as}.
+Output setup code to establish BGP peering for {local_as} with {remote_as}.
+Create peer configuration for BGP peer establishment to be applied to {local_as} to {remote_as}.
+Output peering config for BGP peering setup to be applied to {local_as} to {remote_as}.
+Write configuration code to configure BGP peering for {local_as} with {remote_as}.
+Write config to configure a BGP session from {local_as} to {remote_as}.
+Generate setup code to initiate BGP peering to be applied to {local_as} towards {remote_as}.
+Formulate configuration elements to enable BGP peering from {local_as} to {remote_as}.
+Output routing config to set up a BGP peer from {local_as} towards {remote_as}.
+Design setup code to enable BGP peering on {local_as} towards {remote_as}.
+Construct peering config to set up a BGP peer to be applied to {local_as} with {remote_as}.
+Create configuration code to set up a BGP peer in {local_as} to {remote_as}.
+Provide configuration elements to set up a BGP peer in {local_as} to {remote_as}.
+Write peer configuration to configure BGP peering from {local_as} with {remote_as}.
+Construct routing config to form a BGP peering session from {local_as} towards {remote_as}.
+Output configuration elements for BGP peering setup for {local_as} towards {remote_as}.
+Output peer configuration to set up a BGP peer from {local_as} towards {remote_as}.
+Design peer configuration to initiate BGP peering to be applied to {local_as} to {remote_as}.
+Write network config to establish BGP peering on {local_as} towards {remote_as}.
+Output peering config to form a BGP peering session for {local_as} for peering with {remote_as}.
+Develop configuration script for BGP peer establishment on {local_as} to {remote_as}.
+Provide config to enable BGP peering to be applied to {local_as} towards {remote_as}.
+Construct config to form a BGP peering session from {local_as} to {remote_as}.
+Develop config for BGP peer establishment in {local_as} to {remote_as}.
+Create routing config to set up a BGP peer for {local_as} towards {remote_as}.
+Develop peering config to configure BGP peering in {local_as} for peering with {remote_as}.
+Develop router configuration for setting up BGP peering on {local_as} for peering with {remote_as}.
+Construct peering config for BGP peer establishment in {local_as} to {remote_as}.
+Provide configuration code to initiate BGP peering to be applied to {local_as} to {remote_as}.
+Formulate configuration elements to configure a BGP session to be applied to {local_as} towards {remote_as}.
+Produce network config to enable BGP peering on {local_as} to {remote_as}.
+Generate routing config to initiate BGP peering to be applied to {local_as} to {remote_as}.
+Develop router configuration to form a BGP peering session for {local_as} with {remote_as}.
+Produce setup code to configure BGP peering from {local_as} to {remote_as}.
+Design peering config to set up a BGP peer for {local_as} towards {remote_as}.
+Produce configuration script to form a BGP peering session on {local_as} for peering with {remote_as}.
+Provide configuration elements to enable BGP peering for {local_as} to {remote_as}.
+Develop configuration elements to configure a BGP session to be applied to {local_as} for peering with {remote_as}.
+Produce routing config to initiate BGP peering on {local_as} to {remote_as}.
+Generate router configuration to set up a BGP peer for {local_as} for peering with {remote_as}.
+Formulate config for setting up BGP peering to be applied to {local_as} for peering with {remote_as}.
+Provide peering config for setting up BGP peering for {local_as} for peering with {remote_as}.
+Write routing config to configure a BGP session on {local_as} towards {remote_as}.
+Provide configuration script to configure BGP peering to be applied to {local_as} to {remote_as}.
+Create routing config to establish BGP peering for {local_as} to {remote_as}.
+Formulate peer configuration to enable BGP peering from {local_as} towards {remote_as}.
+Provide configuration elements to configure a BGP session on {local_as} to {remote_as}.
+Create peer configuration to set up a BGP peer in {local_as} to {remote_as}.
+Output router configuration for setting up BGP peering to be applied to {local_as} towards {remote_as}.
+Construct config to initiate BGP peering to be applied to {local_as} towards {remote_as}.
+Create setup code to initiate BGP peering from {local_as} towards {remote_as}.
+Create router configuration to form a BGP peering session to be applied to {local_as} for peering with {remote_as}.
+Construct peer configuration to initiate BGP peering to be applied to {local_as} to {remote_as}.
+Construct configuration script for BGP peering setup to be applied to {local_as} for peering with {remote_as}.
+Design network config to set up a BGP peer in {local_as} to {remote_as}.
+Formulate peering config for BGP peer establishment from {local_as} towards {remote_as}.
+Produce configuration code to configure BGP peering on {local_as} to {remote_as}.
+Formulate routing config for BGP peering setup in {local_as} with {remote_as}.
+Design routing config for BGP peer establishment for {local_as} with {remote_as}.
+Provide network config to enable BGP peering to be applied to {local_as} towards {remote_as}.
+Develop configuration elements to initiate BGP peering on {local_as} for peering with {remote_as}.
+Write setup code to configure BGP peering on {local_as} with {remote_as}.
+Generate configuration elements for BGP peering setup on {local_as} to {remote_as}.
+Develop configuration elements to configure a BGP session for {local_as} to {remote_as}.
+Generate network config to set up a BGP peer to be applied to {local_as} with {remote_as}.
+Construct configuration code to configure BGP peering to be applied to {local_as} to {remote_as}.
+Produce configuration code to form a BGP peering session for {local_as} for peering with {remote_as}.
+Construct router configuration for BGP peering setup in {local_as} towards {remote_as}.
+Produce setup code to initiate BGP peering from {local_as} towards {remote_as}.
+Produce config for BGP peer establishment in {local_as} to {remote_as}.
+Provide configuration script for BGP peer establishment from {local_as} to {remote_as}.
+Construct configuration code to configure a BGP session from {local_as} to {remote_as}.
+Produce peering config to configure a BGP session from {local_as} towards {remote_as}.
+Create configuration elements for BGP peer establishment on {local_as} to {remote_as}.
+Write peer configuration for BGP peering setup in {local_as} for peering with {remote_as}.
+Provide routing config to form a BGP peering session to be applied to {local_as} for peering with {remote_as}.
+Write config to establish BGP peering to be applied to {local_as} to {remote_as}.
+Formulate network config to form a BGP peering session on {local_as} with {remote_as}.
+Develop configuration script to configure BGP peering for {local_as} to {remote_as}.
+Create configuration elements to enable BGP peering for {local_as} for peering with {remote_as}.
+Formulate configuration script for BGP peer establishment to be applied to {local_as} to {remote_as}.
+Develop setup code to initiate BGP peering in {local_as} for peering with {remote_as}.
+Develop peer configuration to configure BGP peering on {local_as} with {remote_as}.
+Produce setup code to set up a BGP peer from {local_as} to {remote_as}.
+Output configuration script to configure BGP peering for {local_as} towards {remote_as}.
+Design config to configure a BGP session from {local_as} for peering with {remote_as}.
+Generate network config to establish BGP peering to be applied to {local_as} to {remote_as}.
+Produce configuration script to establish BGP peering on {local_as} with {remote_as}.
+Design peer configuration to enable BGP peering on {local_as} towards {remote_as}.
+Write configuration elements to configure BGP peering from {local_as} to {remote_as}.
+Produce network config for setting up BGP peering on {local_as} to {remote_as}.
+Write peering config for BGP peering setup on {local_as} for peering with {remote_as}.
+Construct peering config to initiate BGP peering on {local_as} to {remote_as}.
+Develop setup code for setting up BGP peering in {local_as} to {remote_as}.
+Construct config to enable BGP peering on {local_as} with {remote_as}.
+Write setup code for BGP peering setup from {local_as} towards {remote_as}.
+Design configuration script to set up a BGP peer for {local_as} for peering with {remote_as}.
+Produce setup code to configure BGP peering to be applied to {local_as} with {remote_as}.
+Provide setup code for setting up BGP peering for {local_as} to {remote_as}.
+Construct configuration code for BGP peering setup from {local_as} to {remote_as}.
+Provide peer configuration to configure a BGP session to be applied to {local_as} with {remote_as}.
+Develop configuration script to configure a BGP session for {local_as} to {remote_as}.
+Write peering config for BGP peer establishment from {local_as} towards {remote_as}.
+Output routing config for setting up BGP peering to be applied to {local_as} with {remote_as}.
+Output config for BGP peering setup in {local_as} to {remote_as}.
+Provide setup code for BGP peering setup from {local_as} towards {remote_as}.
+Formulate config for setting up BGP peering in {local_as} with {remote_as}.
+Create routing config to set up a BGP peer in {local_as} to {remote_as}.
+Develop network config to form a BGP peering session to be applied to {local_as} to {remote_as}.
+Construct router configuration to initiate BGP peering on {local_as} with {remote_as}.
+Generate network config for BGP peer establishment to be applied to {local_as} with {remote_as}.
+Produce configuration code to form a BGP peering session for {local_as} to {remote_as}.
+Output router configuration to set up a BGP peer on {local_as} towards {remote_as}.
+Design config to enable BGP peering in {local_as} towards {remote_as}.
+Create configuration script for BGP peer establishment on {local_as} towards {remote_as}.
+Construct config to enable BGP peering to be applied to {local_as} to {remote_as}.
+Develop peer configuration to establish BGP peering to be applied to {local_as} towards {remote_as}.
+Construct routing config for BGP peer establishment to be applied to {local_as} towards {remote_as}.
+Provide configuration elements to set up a BGP peer in {local_as} with {remote_as}.
+Create configuration code for BGP peer establishment for {local_as} towards {remote_as}.
+Generate setup code for setting up BGP peering for {local_as} towards {remote_as}.
+Formulate routing config to initiate BGP peering from {local_as} towards {remote_as}.
+Formulate setup code to initiate BGP peering for {local_as} with {remote_as}.
+Create network config to configure BGP peering from {local_as} with {remote_as}.
+Create configuration code to configure a BGP session from {local_as} to {remote_as}.
+Create configuration script to form a BGP peering session in {local_as} for peering with {remote_as}.
+Write config to enable BGP peering on {local_as} with {remote_as}.
+Generate peering config to set up a BGP peer to be applied to {local_as} to {remote_as}.
+Construct configuration elements for BGP peering setup for {local_as} for peering with {remote_as}.
+Output setup code for BGP peering setup to be applied to {local_as} with {remote_as}.
+Develop peer configuration for setting up BGP peering in {local_as} for peering with {remote_as}.
+Formulate configuration script for BGP peer establishment on {local_as} with {remote_as}.
+Provide network config to initiate BGP peering for {local_as} for peering with {remote_as}.
+Provide routing config to set up a BGP peer for {local_as} with {remote_as}.
+Write peer configuration to initiate BGP peering for {local_as} towards {remote_as}.
+Create configuration script for setting up BGP peering for {local_as} towards {remote_as}.
+Develop router configuration to establish BGP peering in {local_as} for peering with {remote_as}.
+Output router configuration to configure a BGP session for {local_as} with {remote_as}.
+Construct configuration code to initiate BGP peering for {local_as} with {remote_as}.
+Output peering config to configure BGP peering in {local_as} towards {remote_as}.
+Write peer configuration to set up a BGP peer from {local_as} towards {remote_as}.
+Create configuration elements to set up a BGP peer on {local_as} for peering with {remote_as}.
+Create configuration code to form a BGP peering session to be applied to {local_as} for peering with {remote_as}.
+Produce peering config to set up a BGP peer on {local_as} towards {remote_as}.
+Provide configuration code to establish BGP peering on {local_as} with {remote_as}.
+Design routing config to configure BGP peering from {local_as} to {remote_as}.
+Generate routing config to initiate BGP peering from {local_as} to {remote_as}.
+Generate config for setting up BGP peering to be applied to {local_as} for peering with {remote_as}.
+Write config to enable BGP peering for {local_as} towards {remote_as}.
+Output setup code for BGP peering setup from {local_as} to {remote_as}.
+Develop router configuration to establish BGP peering on {local_as} with {remote_as}.
+Produce setup code to set up a BGP peer in {local_as} with {remote_as}.
+Write network config to enable BGP peering for {local_as} to {remote_as}.
+Write configuration script to form a BGP peering session on {local_as} with {remote_as}.
+Develop peer configuration to set up a BGP peer to be applied to {local_as} to {remote_as}.
+Generate routing config to establish BGP peering in {local_as} with {remote_as}.
+Write configuration script to set up a BGP peer for {local_as} to {remote_as}.
+Write configuration code to set up a BGP peer from {local_as} towards {remote_as}.
+Produce routing config to configure BGP peering in {local_as} with {remote_as}.
+Provide setup code to configure a BGP session in {local_as} for peering with {remote_as}.
+Produce config to initiate BGP peering in {local_as} to {remote_as}.
+Formulate peering config for BGP peer establishment in {local_as} towards {remote_as}.
+Provide peer configuration to configure BGP peering for {local_as} with {remote_as}.
+Produce configuration code for BGP peer establishment to be applied to {local_as} for peering with {remote_as}.
+Design routing config to enable BGP peering for {local_as} to {remote_as}.
+Generate router configuration to form a BGP peering session for {local_as} to {remote_as}.
+Output network config to form a BGP peering session for {local_as} towards {remote_as}.
+Produce router configuration to initiate BGP peering to be applied to {local_as} to {remote_as}.
+Produce peer configuration to configure a BGP session in {local_as} towards {remote_as}.
+Develop configuration code to configure BGP peering from {local_as} with {remote_as}.
+Develop network config to configure a BGP session from {local_as} towards {remote_as}.
+Output setup code to configure BGP peering to be applied to {local_as} to {remote_as}.
+Output setup code to initiate BGP peering from {local_as} with {remote_as}.
+Create router configuration for BGP peering setup on {local_as} to {remote_as}.
+Produce configuration code to configure a BGP session in {local_as} for peering with {remote_as}.
+Design configuration code to initiate BGP peering to be applied to {local_as} to {remote_as}.
+Output peering config for setting up BGP peering from {local_as} for peering with {remote_as}.
+Write routing config to configure a BGP session in {local_as} towards {remote_as}.
+Write configuration elements to configure BGP peering to be applied to {local_as} with {remote_as}.
+Produce peer configuration to configure BGP peering on {local_as} for peering with {remote_as}.
+Develop setup code to configure BGP peering to be applied to {local_as} towards {remote_as}.
+Formulate configuration elements to configure BGP peering on {local_as} towards {remote_as}.
+Produce configuration elements to form a BGP peering session on {local_as} towards {remote_as}.
+Output peering config to initiate BGP peering in {local_as} towards {remote_as}.
+Construct configuration script to configure a BGP session for {local_as} towards {remote_as}.
+Develop config for BGP peer establishment from {local_as} with {remote_as}.
+Design setup code to enable BGP peering to be applied to {local_as} for peering with {remote_as}.
+Create network config to configure BGP peering on {local_as} to {remote_as}.
+Design peer configuration for BGP peer establishment to be applied to {local_as} to {remote_as}.
+Produce setup code for BGP peering setup to be applied to {local_as} for peering with {remote_as}.
+Generate setup code to set up a BGP peer to be applied to {local_as} towards {remote_as}.
+Create router configuration to set up a BGP peer from {local_as} for peering with {remote_as}.
+Write config to establish BGP peering on {local_as} for peering with {remote_as}.
+Develop setup code to enable BGP peering from {local_as} towards {remote_as}.
+Generate routing config to set up a BGP peer to be applied to {local_as} to {remote_as}.
+Design routing config to initiate BGP peering for {local_as} to {remote_as}.
+Create network config for BGP peer establishment in {local_as} with {remote_as}.
+Formulate router configuration to configure BGP peering on {local_as} to {remote_as}.
+Develop peering config to establish BGP peering in {local_as} for peering with {remote_as}.
+Write peer configuration to enable BGP peering on {local_as} for peering with {remote_as}.
+Construct peer configuration for BGP peering setup to be applied to {local_as} towards {remote_as}.
+Generate configuration script to enable BGP peering on {local_as} towards {remote_as}.
+Generate configuration elements for BGP peering setup in {local_as} with {remote_as}.
+Construct router configuration to form a BGP peering session for {local_as} for peering with {remote_as}.
+Write network config to configure a BGP session to be applied to {local_as} to {remote_as}.
+Output router configuration to initiate BGP peering on {local_as} to {remote_as}.
+Write configuration elements for BGP peer establishment for {local_as} for peering with {remote_as}.
+Produce configuration script to initiate BGP peering to be applied to {local_as} to {remote_as}.
+Generate configuration elements to configure BGP peering on {local_as} to {remote_as}.
+Formulate peer configuration to configure BGP peering in {local_as} with {remote_as}.
+Design routing config to form a BGP peering session to be applied to {local_as} to {remote_as}.
+Construct routing config to establish BGP peering for {local_as} with {remote_as}.
+Generate setup code for BGP peering setup in {local_as} towards {remote_as}.
+Design peer configuration to enable BGP peering in {local_as} to {remote_as}.
+Generate router configuration to enable BGP peering from {local_as} to {remote_as}.
+Output configuration code to configure a BGP session from {local_as} towards {remote_as}.
+Output configuration script to set up a BGP peer to be applied to {local_as} with {remote_as}.
+Provide configuration code to set up a BGP peer on {local_as} to {remote_as}.
+Formulate peering config to form a BGP peering session to be applied to {local_as} to {remote_as}.
+Provide routing config for BGP peer establishment from {local_as} to {remote_as}.
+Formulate setup code for BGP peer establishment in {local_as} for peering with {remote_as}.
+Develop config for BGP peering setup from {local_as} to {remote_as}.
+Provide routing config to establish BGP peering in {local_as} to {remote_as}.
+Produce setup code to establish BGP peering to be applied to {local_as} for peering with {remote_as}.
+Write config to configure a BGP session for {local_as} to {remote_as}.
+Output peer configuration to initiate BGP peering on {local_as} for peering with {remote_as}.
+Create configuration script to form a BGP peering session on {local_as} with {remote_as}.
+Create router configuration to establish BGP peering on {local_as} for peering with {remote_as}.
+Formulate setup code to set up a BGP peer to be applied to {local_as} for peering with {remote_as}.
+Construct router configuration to establish BGP peering to be applied to {local_as} to {remote_as}.
+Output router configuration to set up a BGP peer on {local_as} with {remote_as}.
+Design peer configuration to configure BGP peering to be applied to {local_as} for peering with {remote_as}.
+Produce routing config to set up a BGP peer on {local_as} for peering with {remote_as}.
+Create peer configuration to set up a BGP peer from {local_as} for peering with {remote_as}.
+Produce config to initiate BGP peering from {local_as} with {remote_as}.
+Design router configuration for BGP peer establishment to be applied to {local_as} to {remote_as}.
+Develop router configuration for setting up BGP peering from {local_as} for peering with {remote_as}.
+Write network config to set up a BGP peer to be applied to {local_as} towards {remote_as}.
+Construct configuration code for BGP peer establishment in {local_as} with {remote_as}.
+Formulate configuration code to configure BGP peering from {local_as} to {remote_as}.
+Design setup code for BGP peer establishment on {local_as} to {remote_as}.
+Provide configuration script to establish BGP peering from {local_as} to {remote_as}.
+Generate configuration script to configure a BGP session on {local_as} to {remote_as}.
+Generate routing config to initiate BGP peering on {local_as} to {remote_as}.
+Construct setup code to set up a BGP peer in {local_as} towards {remote_as}.
+Provide routing config to establish BGP peering from {local_as} towards {remote_as}.
+Design network config for BGP peering setup from {local_as} to {remote_as}.
+Formulate setup code to configure a BGP session to be applied to {local_as} with {remote_as}.
+Produce configuration code to establish BGP peering for {local_as} to {remote_as}.
+Develop setup code to set up a BGP peer from {local_as} towards {remote_as}.
+Provide peering config for setting up BGP peering for {local_as} to {remote_as}.
+Provide peering config to set up a BGP peer from {local_as} to {remote_as}.
+Develop configuration code for BGP peering setup from {local_as} for peering with {remote_as}.
+Design configuration elements for BGP peering setup from {local_as} to {remote_as}.
+Produce config for BGP peering setup from {local_as} for peering with {remote_as}.
+Provide configuration elements to enable BGP peering for {local_as} with {remote_as}.
+Output configuration code for BGP peering setup from {local_as} for peering with {remote_as}.
+Provide setup code to form a BGP peering session on {local_as} to {remote_as}.
+Create configuration code for setting up BGP peering from {local_as} for peering with {remote_as}.
+Write configuration code to establish BGP peering in {local_as} with {remote_as}.
+Generate router configuration to configure a BGP session to be applied to {local_as} to {remote_as}.
+Produce peer configuration for BGP peering setup for {local_as} towards {remote_as}.
+Provide peering config to establish BGP peering to be applied to {local_as} towards {remote_as}.
+Create network config to enable BGP peering for {local_as} for peering with {remote_as}.
+Output routing config to initiate BGP peering to be applied to {local_as} for peering with {remote_as}.
+Create config to set up a BGP peer from {local_as} with {remote_as}.
+Produce peer configuration to configure a BGP session from {local_as} with {remote_as}.
+Design configuration elements to enable BGP peering for {local_as} to {remote_as}.
+Formulate router configuration for setting up BGP peering in {local_as} to {remote_as}.
+Output setup code to form a BGP peering session on {local_as} towards {remote_as}.
+Formulate router configuration to initiate BGP peering from {local_as} to {remote_as}.
+Develop peering config to initiate BGP peering on {local_as} to {remote_as}.
+Output config to configure BGP peering in {local_as} to {remote_as}.
+Formulate configuration script to enable BGP peering from {local_as} to {remote_as}.
+Develop peer configuration to configure BGP peering for {local_as} to {remote_as}.
+Output configuration elements to set up a BGP peer for {local_as} with {remote_as}.
+Provide setup code to initiate BGP peering from {local_as} with {remote_as}.
+Create router configuration for BGP peer establishment from {local_as} to {remote_as}.
+Develop peer configuration to form a BGP peering session for {local_as} towards {remote_as}.
+Write config to form a BGP peering session for {local_as} to {remote_as}.
+Produce configuration script to establish BGP peering for {local_as} to {remote_as}.
+Produce peering config for BGP peering setup for {local_as} with {remote_as}.
+Formulate configuration script to establish BGP peering to be applied to {local_as} towards {remote_as}.
+Develop setup code to establish BGP peering in {local_as} to {remote_as}.
+Develop routing config to set up a BGP peer for {local_as} to {remote_as}.
+Provide peer configuration for BGP peering setup on {local_as} for peering with {remote_as}.
+Create configuration code to configure a BGP session on {local_as} to {remote_as}.
+Construct routing config to configure a BGP session on {local_as} with {remote_as}.
+Write configuration script to set up a BGP peer to be applied to {local_as} with {remote_as}.
+Provide network config for BGP peer establishment for {local_as} with {remote_as}.
+Provide setup code to establish BGP peering on {local_as} towards {remote_as}.
+Develop setup code to set up a BGP peer in {local_as} to {remote_as}.
+Construct configuration code to set up a BGP peer from {local_as} to {remote_as}.
+Construct routing config to configure BGP peering from {local_as} with {remote_as}.
+Construct configuration script to set up a BGP peer for {local_as} with {remote_as}.
+Design setup code for BGP peer establishment on {local_as} towards {remote_as}.
+Develop configuration elements to enable BGP peering from {local_as} towards {remote_as}.
+Construct setup code to form a BGP peering session in {local_as} to {remote_as}.
+Provide configuration elements to enable BGP peering for {local_as} for peering with {remote_as}.
+Output configuration elements for BGP peering setup in {local_as} to {remote_as}.
+Output network config to configure BGP peering for {local_as} towards {remote_as}.
+Produce peering config to set up a BGP peer in {local_as} to {remote_as}.
+Design routing config for BGP peering setup from {local_as} to {remote_as}.
+Formulate config to initiate BGP peering on {local_as} for peering with {remote_as}.
+Produce setup code to form a BGP peering session in {local_as} to {remote_as}.
+Produce config to enable BGP peering in {local_as} to {remote_as}.
+Formulate config to configure BGP peering on {local_as} towards {remote_as}.
+Develop configuration script to configure a BGP session for {local_as} for peering with {remote_as}.
+Generate network config to configure a BGP session for {local_as} to {remote_as}.
+Produce setup code for BGP peering setup from {local_as} for peering with {remote_as}.
+Output config for setting up BGP peering for {local_as} to {remote_as}.
+Output configuration code to enable BGP peering for {local_as} for peering with {remote_as}.
+Design config to configure a BGP session to be applied to {local_as} with {remote_as}.
+Develop network config for BGP peer establishment from {local_as} to {remote_as}.
+Design router configuration to establish BGP peering from {local_as} with {remote_as}.
+Output configuration script to configure a BGP session for {local_as} to {remote_as}.
+Formulate routing config to configure BGP peering from {local_as} to {remote_as}.
+Provide configuration code to configure BGP peering to be applied to {local_as} to {remote_as}.
+Provide router configuration for BGP peer establishment in {local_as} towards {remote_as}.
+Develop peering config to configure BGP peering in {local_as} towards {remote_as}.
+Construct configuration script for BGP peer establishment for {local_as} towards {remote_as}.
+Construct peer configuration to enable BGP peering to be applied to {local_as} towards {remote_as}.
+Provide peering config to form a BGP peering session on {local_as} for peering with {remote_as}.
+Generate peering config to configure BGP peering from {local_as} with {remote_as}.
+Generate network config to establish BGP peering in {local_as} to {remote_as}.
+Construct config for BGP peering setup to be applied to {local_as} towards {remote_as}.
+Output router configuration for BGP peer establishment on {local_as} towards {remote_as}.
+Produce network config to configure a BGP session for {local_as} towards {remote_as}.
+Output network config for BGP peering setup on {local_as} for peering with {remote_as}.
+Write configuration elements to configure a BGP session from {local_as} to {remote_as}.
+Produce peering config for setting up BGP peering to be applied to {local_as} to {remote_as}.
+Develop peer configuration for BGP peer establishment for {local_as} towards {remote_as}.
+Develop configuration code to set up a BGP peer on {local_as} to {remote_as}.
+Write setup code to set up a BGP peer on {local_as} for peering with {remote_as}.
+Provide configuration script to establish BGP peering for {local_as} to {remote_as}.
+Formulate configuration script to initiate BGP peering in {local_as} towards {remote_as}.
+Generate setup code to form a BGP peering session for {local_as} to {remote_as}.
+Write config to configure a BGP session for {local_as} to {remote_as}.
+Create configuration elements to enable BGP peering in {local_as} to {remote_as}.
+Formulate configuration code to configure BGP peering on {local_as} with {remote_as}.
+Produce setup code to enable BGP peering to be applied to {local_as} for peering with {remote_as}.
+Write configuration elements to establish BGP peering in {local_as} with {remote_as}.
+Design router configuration for BGP peering setup from {local_as} for peering with {remote_as}.
+Construct configuration script to configure BGP peering on {local_as} towards {remote_as}.
+Generate network config to enable BGP peering to be applied to {local_as} with {remote_as}.
+Formulate config for BGP peering setup to be applied to {local_as} to {remote_as}.
+Formulate routing config to initiate BGP peering in {local_as} to {remote_as}.
+Produce router configuration to configure BGP peering on {local_as} with {remote_as}.
+Create peering config to set up a BGP peer from {local_as} for peering with {remote_as}.
+Formulate network config to configure BGP peering on {local_as} towards {remote_as}.
+Construct configuration elements to configure BGP peering for {local_as} to {remote_as}.
+Create configuration elements to set up a BGP peer from {local_as} to {remote_as}.
+Formulate configuration elements for BGP peering setup for {local_as} to {remote_as}.
+Construct routing config to initiate BGP peering for {local_as} with {remote_as}.
+Write config for BGP peering setup to be applied to {local_as} to {remote_as}.
+Construct routing config to form a BGP peering session for {local_as} to {remote_as}.
+Formulate peering config to form a BGP peering session from {local_as} to {remote_as}.
+Formulate config to configure BGP peering on {local_as} to {remote_as}.
+Develop configuration elements for BGP peering setup for {local_as} to {remote_as}.
+Produce configuration elements for BGP peer establishment for {local_as} to {remote_as}.
+Output configuration code to set up a BGP peer for {local_as} towards {remote_as}.
+Generate peering config to initiate BGP peering from {local_as} for peering with {remote_as}.
+Output config for BGP peer establishment in {local_as} with {remote_as}.
+Design configuration code for setting up BGP peering from {local_as} with {remote_as}.
+Produce router configuration for BGP peering setup on {local_as} towards {remote_as}.
+Develop peering config for setting up BGP peering from {local_as} to {remote_as}.
+Write configuration script for BGP peer establishment from {local_as} to {remote_as}.
+Formulate routing config to enable BGP peering on {local_as} to {remote_as}.
+Construct peer configuration to form a BGP peering session from {local_as} to {remote_as}.
+Design configuration elements to configure a BGP session for {local_as} with {remote_as}.
+Formulate setup code to set up a BGP peer for {local_as} towards {remote_as}.
+Generate router configuration to establish BGP peering on {local_as} to {remote_as}.
+Formulate config to form a BGP peering session in {local_as} to {remote_as}.
+Formulate network config to enable BGP peering on {local_as} towards {remote_as}.
+Generate configuration code to form a BGP peering session in {local_as} for peering with {remote_as}.
+Create peer configuration for BGP peer establishment in {local_as} to {remote_as}.
+Output peering config for BGP peer establishment on {local_as} for peering with {remote_as}.
+Output configuration elements for BGP peer establishment from {local_as} with {remote_as}.
+Formulate config for setting up BGP peering from {local_as} for peering with {remote_as}.
+Write peering config to configure a BGP session in {local_as} to {remote_as}.
+Output configuration elements to enable BGP peering to be applied to {local_as} with {remote_as}.
+Design peering config to set up a BGP peer to be applied to {local_as} for peering with {remote_as}.
+Construct network config to form a BGP peering session for {local_as} for peering with {remote_as}.
+Construct peering config for BGP peering setup to be applied to {local_as} with {remote_as}.
+Provide network config to form a BGP peering session on {local_as} to {remote_as}.
+Design routing config to set up a BGP peer in {local_as} to {remote_as}.
+Output setup code to enable BGP peering to be applied to {local_as} to {remote_as}.
+Provide setup code for BGP peering setup from {local_as} for peering with {remote_as}.
+Write router configuration to form a BGP peering session in {local_as} with {remote_as}.
+Formulate peer configuration to configure BGP peering to be applied to {local_as} towards {remote_as}.
+Produce configuration elements to establish BGP peering for {local_as} towards {remote_as}.
+Produce router configuration to configure a BGP session to be applied to {local_as} with {remote_as}.
+Design configuration code to form a BGP peering session in {local_as} towards {remote_as}.
+Formulate peer configuration to set up a BGP peer from {local_as} for peering with {remote_as}.
+Write network config for BGP peering setup to be applied to {local_as} towards {remote_as}.
+Design configuration elements for BGP peering setup on {local_as} with {remote_as}.
+Develop configuration code to configure BGP peering for {local_as} with {remote_as}.
+Create config to enable BGP peering to be applied to {local_as} for peering with {remote_as}.
+Create peering config to form a BGP peering session on {local_as} for peering with {remote_as}.
+Output network config for BGP peering setup to be applied to {local_as} for peering with {remote_as}.
+Create routing config for setting up BGP peering on {local_as} to {remote_as}.
+Provide configuration script to initiate BGP peering on {local_as} towards {remote_as}.
+Develop routing config to initiate BGP peering for {local_as} to {remote_as}.
+Develop routing config to enable BGP peering for {local_as} to {remote_as}.
+Output routing config to initiate BGP peering in {local_as} with {remote_as}.
+Generate configuration script for BGP peering setup on {local_as} to {remote_as}.
+Design config to enable BGP peering for {local_as} towards {remote_as}.
+Generate routing config to establish BGP peering to be applied to {local_as} for peering with {remote_as}.
+Construct setup code to configure a BGP session for {local_as} for peering with {remote_as}.
+Provide setup code to form a BGP peering session on {local_as} towards {remote_as}.
+Generate peer configuration to establish BGP peering in {local_as} for peering with {remote_as}.
+Formulate peer configuration for BGP peering setup in {local_as} to {remote_as}.
+Produce routing config to form a BGP peering session on {local_as} to {remote_as}.
+Create router configuration for BGP peer establishment to be applied to {local_as} to {remote_as}.
+Design configuration script to establish BGP peering on {local_as} towards {remote_as}.
+Provide peering config to establish BGP peering on {local_as} towards {remote_as}.
+Output peering config to configure a BGP session from {local_as} to {remote_as}.
+Output peering config to configure BGP peering in {local_as} to {remote_as}.
+Generate configuration code to initiate BGP peering from {local_as} for peering with {remote_as}.
+Develop configuration script for setting up BGP peering to be applied to {local_as} with {remote_as}.
+Create network config to set up a BGP peer from {local_as} to {remote_as}.
+Write configuration elements to configure BGP peering for {local_as} to {remote_as}.
+Create routing config to initiate BGP peering in {local_as} towards {remote_as}.
+Design peering config to form a BGP peering session from {local_as} to {remote_as}.
+Create config to initiate BGP peering on {local_as} for peering with {remote_as}.
+Produce setup code to configure BGP peering from {local_as} with {remote_as}.
+Write configuration script for BGP peering setup for {local_as} with {remote_as}.
+Create routing config for BGP peer establishment on {local_as} for peering with {remote_as}.
+Create router configuration to configure a BGP session from {local_as} to {remote_as}.
+Output config to configure BGP peering for {local_as} with {remote_as}.
+Produce routing config to set up a BGP peer from {local_as} to {remote_as}.
+Formulate configuration code to establish BGP peering on {local_as} towards {remote_as}.
+Provide router configuration to configure a BGP session to be applied to {local_as} towards {remote_as}.
+Provide router configuration to set up a BGP peer from {local_as} to {remote_as}.
+Formulate routing config to configure BGP peering in {local_as} with {remote_as}.
+Create configuration elements to configure BGP peering on {local_as} towards {remote_as}.
+Formulate network config to initiate BGP peering from {local_as} with {remote_as}.
+Produce routing config to configure BGP peering from {local_as} to {remote_as}.
+Develop config to set up a BGP peer on {local_as} for peering with {remote_as}.
+Output setup code to form a BGP peering session from {local_as} to {remote_as}.
+Produce configuration script to set up a BGP peer in {local_as} for peering with {remote_as}.
+Output configuration elements to set up a BGP peer from {local_as} towards {remote_as}.
+Construct configuration code for setting up BGP peering in {local_as} with {remote_as}.
+Generate router configuration to set up a BGP peer for {local_as} to {remote_as}.
+Construct configuration code for BGP peer establishment for {local_as} for peering with {remote_as}.
+Design config to initiate BGP peering to be applied to {local_as} towards {remote_as}.
+Formulate config to enable BGP peering on {local_as} towards {remote_as}.
+Write setup code to form a BGP peering session for {local_as} towards {remote_as}.
+Develop config to establish BGP peering on {local_as} with {remote_as}.
+Formulate configuration elements to configure BGP peering for {local_as} with {remote_as}.
+Create network config to configure a BGP session on {local_as} towards {remote_as}.
+Write configuration code to configure BGP peering on {local_as} towards {remote_as}.
+Output peering config to establish BGP peering in {local_as} towards {remote_as}.
+Generate setup code to configure BGP peering on {local_as} to {remote_as}.
+Formulate config to set up a BGP peer for {local_as} to {remote_as}.
+Write configuration script to enable BGP peering in {local_as} for peering with {remote_as}.
+Generate configuration elements for setting up BGP peering from {local_as} towards {remote_as}.
+Develop peer configuration to configure BGP peering in {local_as} for peering with {remote_as}.
+Write setup code for BGP peering setup to be applied to {local_as} for peering with {remote_as}.
+Design setup code to configure a BGP session for {local_as} with {remote_as}.
+Generate config to set up a BGP peer for {local_as} towards {remote_as}.
+Develop config to initiate BGP peering in {local_as} towards {remote_as}.
+Output network config to configure a BGP session for {local_as} for peering with {remote_as}.
+Produce network config to set up a BGP peer in {local_as} to {remote_as}.
+Develop router configuration to enable BGP peering on {local_as} to {remote_as}.
+Construct configuration elements to establish BGP peering for {local_as} to {remote_as}.
+Generate configuration script for BGP peering setup on {local_as} to {remote_as}.
+Provide peering config to initiate BGP peering to be applied to {local_as} with {remote_as}.
+Generate configuration script to initiate BGP peering on {local_as} towards {remote_as}.
+Generate config to configure a BGP session to be applied to {local_as} towards {remote_as}.
+Create network config to configure a BGP session to be applied to {local_as} to {remote_as}.
+Generate setup code for setting up BGP peering in {local_as} with {remote_as}.
+Produce routing config to form a BGP peering session from {local_as} with {remote_as}.
+Formulate routing config for setting up BGP peering from {local_as} with {remote_as}.
+Develop configuration script for setting up BGP peering in {local_as} to {remote_as}.
+Create configuration elements for BGP peering setup on {local_as} towards {remote_as}.
+Design router configuration to configure BGP peering to be applied to {local_as} to {remote_as}.
+Generate network config to enable BGP peering on {local_as} with {remote_as}.
+Develop router configuration to configure a BGP session from {local_as} for peering with {remote_as}.
+Construct config to establish BGP peering for {local_as} to {remote_as}.
+Create peering config to enable BGP peering in {local_as} towards {remote_as}.
+Output configuration elements to set up a BGP peer for {local_as} towards {remote_as}.
+Produce config to form a BGP peering session on {local_as} to {remote_as}.
+Formulate config to form a BGP peering session for {local_as} to {remote_as}.
+Produce configuration code to enable BGP peering in {local_as} for peering with {remote_as}.
+Provide network config to enable BGP peering to be applied to {local_as} with {remote_as}.
+Construct routing config to initiate BGP peering for {local_as} to {remote_as}.
+Formulate peer configuration to configure BGP peering to be applied to {local_as} for peering with {remote_as}.
+Develop configuration code to configure a BGP session for {local_as} towards {remote_as}.
+Create setup code to establish BGP peering from {local_as} with {remote_as}.
+Write config for setting up BGP peering from {local_as} for peering with {remote_as}.
+Formulate config to establish BGP peering for {local_as} with {remote_as}.
+Formulate peer configuration to initiate BGP peering from {local_as} with {remote_as}.
+Create setup code to establish BGP peering for {local_as} for peering with {remote_as}.
+Create network config for BGP peer establishment on {local_as} to {remote_as}.
+Output peer configuration to establish BGP peering for {local_as} with {remote_as}.
+Design peering config to initiate BGP peering for {local_as} towards {remote_as}.
+Write peer configuration to enable BGP peering on {local_as} towards {remote_as}.
+Formulate configuration elements to enable BGP peering to be applied to {local_as} with {remote_as}.
+Develop peer configuration to enable BGP peering for {local_as} for peering with {remote_as}.
+Output config for BGP peer establishment to be applied to {local_as} with {remote_as}.
+Generate network config for BGP peer establishment to be applied to {local_as} to {remote_as}.
+Generate routing config to configure BGP peering from {local_as} to {remote_as}.
+Design configuration script to establish BGP peering from {local_as} towards {remote_as}.
+Create router configuration to initiate BGP peering from {local_as} to {remote_as}.
+Design configuration elements to configure a BGP session from {local_as} for peering with {remote_as}.
+Generate peering config for BGP peering setup on {local_as} towards {remote_as}.
+Produce setup code to form a BGP peering session for {local_as} to {remote_as}.
+Design network config to configure a BGP session to be applied to {local_as} with {remote_as}.
+Create routing config to initiate BGP peering to be applied to {local_as} to {remote_as}.
+Formulate config to configure BGP peering in {local_as} to {remote_as}.
+Write routing config to set up a BGP peer in {local_as} to {remote_as}.
+Develop router configuration to configure a BGP session in {local_as} to {remote_as}.
+Provide peering config to set up a BGP peer for {local_as} for peering with {remote_as}.
+Create setup code for setting up BGP peering on {local_as} to {remote_as}.
+Formulate peer configuration to form a BGP peering session in {local_as} towards {remote_as}.
+Formulate peer configuration to set up a BGP peer to be applied to {local_as} to {remote_as}.
+Formulate routing config to initiate BGP peering on {local_as} to {remote_as}.
+Generate network config for setting up BGP peering for {local_as} for peering with {remote_as}.
+Generate configuration code to configure a BGP session from {local_as} with {remote_as}.
+Provide configuration code to configure a BGP session from {local_as} towards {remote_as}.
+Design peer configuration for BGP peering setup in {local_as} with {remote_as}.
+Formulate peer configuration to form a BGP peering session on {local_as} with {remote_as}.
+Construct network config for setting up BGP peering in {local_as} for peering with {remote_as}.
+Formulate configuration code to configure a BGP session on {local_as} to {remote_as}.
+Generate configuration code to establish BGP peering on {local_as} to {remote_as}.
+Formulate configuration elements to set up a BGP peer for {local_as} for peering with {remote_as}.
+Create configuration script to configure a BGP session from {local_as} towards {remote_as}.
+Construct network config for BGP peer establishment in {local_as} to {remote_as}.
+Provide configuration code to configure BGP peering on {local_as} with {remote_as}.
+Develop peering config to enable BGP peering on {local_as} towards {remote_as}.
+Create peering config to set up a BGP peer for {local_as} for peering with {remote_as}.
+Provide router configuration for BGP peer establishment from {local_as} with {remote_as}.
+Create peer configuration for BGP peer establishment from {local_as} for peering with {remote_as}.
+Produce peering config to enable BGP peering in {local_as} for peering with {remote_as}.
+Generate configuration elements for BGP peering setup for {local_as} to {remote_as}.
+Construct config for setting up BGP peering for {local_as} with {remote_as}.
+Generate configuration code for setting up BGP peering in {local_as} towards {remote_as}.
+Create peer configuration to configure a BGP session in {local_as} to {remote_as}.
+Design configuration code to initiate BGP peering on {local_as} for peering with {remote_as}.
+Write router configuration for BGP peer establishment from {local_as} towards {remote_as}.
+Provide configuration elements to configure BGP peering in {local_as} with {remote_as}.
+Create configuration script to configure a BGP session from {local_as} for peering with {remote_as}.
+Provide routing config to configure BGP peering from {local_as} for peering with {remote_as}.
+Provide configuration elements for setting up BGP peering to be applied to {local_as} to {remote_as}.
+Create configuration elements for BGP peering setup on {local_as} to {remote_as}.
+Create network config to set up a BGP peer to be applied to {local_as} for peering with {remote_as}.
+Provide config to form a BGP peering session on {local_as} towards {remote_as}.
+Develop configuration code to initiate BGP peering to be applied to {local_as} with {remote_as}.
+Produce peering config to initiate BGP peering to be applied to {local_as} to {remote_as}.
+Create routing config to establish BGP peering on {local_as} towards {remote_as}.
+Create network config to set up a BGP peer in {local_as} to {remote_as}.
+Create network config for BGP peering setup in {local_as} towards {remote_as}.
+Generate setup code for BGP peer establishment for {local_as} with {remote_as}.
+Develop configuration code for BGP peering setup on {local_as} towards {remote_as}.
+Formulate configuration code for BGP peering setup on {local_as} with {remote_as}.
+Provide router configuration for BGP peering setup for {local_as} to {remote_as}.
+Create setup code for BGP peering setup to be applied to {local_as} to {remote_as}.
+Create peering config to enable BGP peering in {local_as} to {remote_as}.
+Generate network config to initiate BGP peering on {local_as} with {remote_as}.
+Produce network config to configure BGP peering to be applied to {local_as} towards {remote_as}.
+Generate peer configuration for BGP peering setup for {local_as} towards {remote_as}.
+Generate router configuration to configure a BGP session in {local_as} for peering with {remote_as}.
+Provide configuration script for setting up BGP peering in {local_as} towards {remote_as}.
+Output routing config to form a BGP peering session to be applied to {local_as} to {remote_as}.
+Develop configuration elements to form a BGP peering session to be applied to {local_as} for peering with {remote_as}.
+Output configuration elements for BGP peer establishment on {local_as} to {remote_as}.
+Create configuration elements for BGP peer establishment for {local_as} for peering with {remote_as}.
+Design peer configuration to set up a BGP peer from {local_as} for peering with {remote_as}.
+Create peering config to configure a BGP session to be applied to {local_as} to {remote_as}.
+Provide config for BGP peer establishment on {local_as} to {remote_as}.
+Write configuration code for setting up BGP peering on {local_as} to {remote_as}.
+Output network config to initiate BGP peering to be applied to {local_as} towards {remote_as}.
+Design routing config for setting up BGP peering for {local_as} with {remote_as}.
+Develop routing config to configure a BGP session on {local_as} towards {remote_as}.
+Produce configuration code for setting up BGP peering for {local_as} to {remote_as}.
+Write routing config for setting up BGP peering for {local_as} to {remote_as}.
+Provide configuration elements to enable BGP peering to be applied to {local_as} with {remote_as}.
+Create configuration script for BGP peering setup to be applied to {local_as} with {remote_as}.
+Provide configuration elements to initiate BGP peering in {local_as} towards {remote_as}.
+Formulate configuration script to establish BGP peering to be applied to {local_as} for peering with {remote_as}.
+Provide configuration code to establish BGP peering on {local_as} to {remote_as}.
+Provide router configuration to configure BGP peering to be applied to {local_as} to {remote_as}.
+Produce peer configuration for BGP peer establishment from {local_as} for peering with {remote_as}.
+Develop setup code for setting up BGP peering on {local_as} to {remote_as}.
+Develop routing config to establish BGP peering on {local_as} towards {remote_as}.
+Create configuration code to enable BGP peering to be applied to {local_as} to {remote_as}.
+Produce router configuration to enable BGP peering from {local_as} with {remote_as}.
+Create configuration elements for BGP peer establishment to be applied to {local_as} to {remote_as}.
+Generate configuration elements to enable BGP peering for {local_as} towards {remote_as}.
+Provide peer configuration to configure BGP peering from {local_as} to {remote_as}.
+Formulate peer configuration to configure BGP peering on {local_as} for peering with {remote_as}.
+Design configuration elements for setting up BGP peering from {local_as} to {remote_as}.
+Provide router configuration for setting up BGP peering to be applied to {local_as} towards {remote_as}.
+Write routing config to set up a BGP peer on {local_as} towards {remote_as}.
+Create configuration script to establish BGP peering for {local_as} for peering with {remote_as}.
+Design configuration elements to configure a BGP session for {local_as} for peering with {remote_as}.
+Provide configuration code to establish BGP peering on {local_as} towards {remote_as}.
+Formulate peering config for BGP peer establishment from {local_as} to {remote_as}.
+Create setup code to form a BGP peering session to be applied to {local_as} towards {remote_as}.
+Write router configuration to configure a BGP session on {local_as} to {remote_as}.
+Produce configuration elements to set up a BGP peer in {local_as} to {remote_as}.
+Write configuration code to form a BGP peering session in {local_as} to {remote_as}.
+Develop router configuration to establish BGP peering on {local_as} for peering with {remote_as}.
+Design routing config for setting up BGP peering from {local_as} for peering with {remote_as}.
+Write peer configuration to establish BGP peering to be applied to {local_as} with {remote_as}.
+Generate configuration elements to form a BGP peering session from {local_as} with {remote_as}.
+Design network config to set up a BGP peer to be applied to {local_as} for peering with {remote_as}.
+Create config to establish BGP peering from {local_as} with {remote_as}.
+Design routing config to configure a BGP session from {local_as} with {remote_as}.
+Construct peering config to enable BGP peering to be applied to {local_as} towards {remote_as}.
+Output peering config for BGP peer establishment from {local_as} towards {remote_as}.
+Generate setup code to configure a BGP session from {local_as} to {remote_as}.
+Generate routing config to configure a BGP session for {local_as} with {remote_as}.
+Design configuration code to configure BGP peering on {local_as} for peering with {remote_as}.
+Construct setup code to configure a BGP session on {local_as} to {remote_as}.
+Formulate setup code to enable BGP peering in {local_as} for peering with {remote_as}.
+Output configuration elements to establish BGP peering on {local_as} to {remote_as}.
+Create config for setting up BGP peering for {local_as} to {remote_as}.
+Write setup code for setting up BGP peering to be applied to {local_as} to {remote_as}.
+Formulate router configuration to initiate BGP peering from {local_as} with {remote_as}.
+Develop setup code for BGP peer establishment on {local_as} towards {remote_as}.
+Produce configuration script to configure BGP peering from {local_as} towards {remote_as}.
+Output configuration elements to enable BGP peering in {local_as} towards {remote_as}.

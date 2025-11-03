@@ -1,0 +1,15 @@
+hostname peeringllm-{{ asn }}
+
+interface GigabitEthernet0/1
+  ip address {{ peering_ip }}/30
+
+router bgp {{ asn }}
+  {% for net in netpfx %}
+  network {{ net }}
+  {% endfor %}
+  neighbor EBGP_PEER remote-as {{ remote_as }}
+  neighbor {{ remote_ip }} peer-group EBGP_PEER
+
+{% for net in netpfx %}
+ip route {{ net }} Null0
+{% endfor %}

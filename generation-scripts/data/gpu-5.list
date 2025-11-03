@@ -1,0 +1,11 @@
+codegemma:7b
+codegemma:2b
+dolphin-mixtral:8x7b
+dolphin-llama3:8b
+codestral:22b
+granite-code:20b
+dolphin3:8b
+starcoder2:15b
+starcoder2:7b
+deepseek-coder-v2:16b
+deepseek-coder:6.7b
